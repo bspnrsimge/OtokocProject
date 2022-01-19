@@ -1,0 +1,75 @@
+.EmBox{
+    display: flex;
+    opacity: 1;
+    position: absolute;
+    right: 1em;
+    bottom: 1em;
+    width: 18em;
+    height: 5em;
+    background-color: #F43F5E;
+    border-radius: 0.2em;
+    animation: EmBoxAni 600ms;
+}
+
+.EmBoxContent{
+    border-radius: 0 0.2em 0.2em 0;
+    background-color: whitesmoke;
+    margin-left: 0.2em;
+    width: 17.8em;
+    height: 5em;
+    display: flex;
+    flex-direction: row;
+}
+
+.EmBox .EmBoxContent img {
+    width: 1.5em;
+    height: 1.5em;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+.EmBox .EmBoxContent .EmBoxtext {
+    margin-left: 0.4em;
+    margin-top: 1.2em;
+    display: flex;
+    flex-direction: column;
+    max-width: 14em;
+    min-width: 14em;
+}
+
+.EmBox .EmBoxContent .EmBoxtext h1 {
+    font-size: 14px;
+    font-weight: 900;
+    margin: 0;
+    margin-bottom: 0.6em;
+}
+
+.EmBox .EmBoxContent .EmBoxtext h2 {
+    font-size: 10px;
+    font-weight: 100;
+    margin:0;
+}
+
+.EmBox .EmBoxContent .EmBoxExit{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.EmBox .EmBoxContent .EmBoxExit h3{ 
+    font-family: monospace;
+    color: #AAA;
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 100;
+}
+
+@keyframes EmBoxAni {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}

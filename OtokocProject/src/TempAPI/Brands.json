@@ -1,0 +1,18 @@
+{
+    "Brands":[
+        {
+            "Name":"Mercedes",
+            "Models":[
+                "C180",
+                "E200"
+            ]
+        },
+        {
+            "Name":"Renault",
+            "Models":[
+                "Clio",
+                "Megane"
+            ]
+        }
+    ]
+}

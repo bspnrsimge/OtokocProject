@@ -1,0 +1,48 @@
+
+.logo {
+    width: 10em;
+    position: absolute;
+    right: 1em;
+    top: 1em;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    width: 30em;
+    height: 20em;
+    margin: 20em auto;
+}
+
+.login h1 {
+    color: #0F172A;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.login input {
+    border: #E2E8F0 solid 1px;
+    border-radius: 2px;
+    height: 2em;
+    padding: 0 0.5em;
+    font-size: 16px;
+    margin-bottom: 1em;
+}
+
+.login .buttonFloor{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.login button {
+    display: flex;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 0.8em 1.5em;
+    color: #0F172A;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid #0F172A;
+    border-radius: 3px;
+    
+}

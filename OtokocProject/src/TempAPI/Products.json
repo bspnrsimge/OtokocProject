@@ -1,0 +1,76 @@
+{
+    "products":[
+        {
+            "ID": "10009437",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Renault",
+            "Modal": "Clio"
+        },
+        {
+            "ID": "10009438",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Mercedes",
+            "Modal": "C180"
+        },
+        {
+            "ID": "10009439",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Mercedes",
+            "Dodel": "E200"
+        },
+        {
+            "ID": "10009440",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Mercedes",
+            "Dodel": "E200"
+        },
+        {
+            "ID": "10009441",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Renault",
+            "Modal": "Megane"
+        },
+        {
+            "ID": "10009442",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Mercedes",
+            "Modal": "E200"
+        },
+        {
+            "ID": "10009443",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Mercedes",
+            "Modal": "C180"
+        },
+        {
+            "ID": "10009444",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Renault",
+            "Modal": "Megane"
+        },
+        {
+            "ID": "10009445",
+            "Name": "Balata",
+            "ImageURL": "",
+            "Price": 110.06,
+            "Brand": "Renault",
+            "Modal": "Clio"
+        }
+    ]
+}
